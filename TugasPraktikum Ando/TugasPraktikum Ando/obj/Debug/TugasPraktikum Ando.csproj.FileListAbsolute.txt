@@ -1,0 +1,8 @@
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\obj\Debug\TugasPraktikum Ando.csproj.AssemblyReference.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\obj\Debug\TugasPraktikum Ando.csproj.SuggestedBindingRedirects.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\obj\Debug\TugasPraktikum Ando.csproj.CoreCompileInputs.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\bin\Debug\TugasPraktikum Ando.exe.config
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\bin\Debug\TugasPraktikum Ando.exe
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\bin\Debug\TugasPraktikum Ando.pdb
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\obj\Debug\TugasPraktikum Ando.exe
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\TugasPraktikum Ando\TugasPraktikum Ando\obj\Debug\TugasPraktikum Ando.pdb
